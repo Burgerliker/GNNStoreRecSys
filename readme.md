@@ -1,6 +1,6 @@
 # BISKIT: GNN 기반 상권 분석 및 추천 시스템
 
-**BISKIT**(Business Starter KIT)은 **Graph Neural Network(GNN)**를 활용하여
+**BISKIT**(Business Starter KIT)은 **Graph Neural Network**(GNN)를 활용하여
 상권의 폐업률을 예측하고 최적의 창업 입지를 추천하는 **딥러닝 기반 의사결정 지원 시스템**입니다.
 
 ## 🎯 ML/AI 개발자를 위한 프로젝트 하이라이트
